@@ -1,4 +1,4 @@
-# Prácticas de Potrero - 2025
+# Prácticas de PHP - 2025
 
 Repositorio con mis prácticas del curso de programación Back End 2025.
 
