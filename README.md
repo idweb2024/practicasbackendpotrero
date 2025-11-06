@@ -37,6 +37,27 @@ Estilos incluidos en `styles.css` para presentación y formato de los ejercicios
 
 ---
 
+### TP4_BackEnd
+
+Archivos principales: 'tp4_backend.php', 'styles.css'
+Ejercicios de arrays y matrices en PHP:
+
+Ejercicio 1: Almacena los 10 primeros números pares en un array y los muestra uno debajo del otro.
+
+Ejercicio 2: Crea un array con los valores “Pedro”, “Ana”, 34 y 1, y muestra su estructura con print_r().
+
+Ejercicio 3: Define un array asociativo con nombre, apellido, dirección y teléfono.
+
+Ejercicio 4: Crea un array con ciudades sin índices definidos y muestra el contenido con su posición.
+
+Ejercicio 5: Repite el ejercicio anterior pero asignando índices personalizados (MD, BCL, LD, NY, LA, CCG).
+Además, utiliza la función array_search() para mostrar el índice correspondiente a una ciudad determinada.
+Incluye comentarios explicativos y etiquetas HTML para mostrar el código formateado en pantalla.
+
+Estilos incluidos en `styles.css` para presentación y formato de los ejercicios.
+
+---
+
 ## Cómo usar
 
 1. Clonar el repositorio:
